@@ -1,0 +1,4 @@
+779, initial value
+55, zlata cihla
+-99, postcard
+100, present
