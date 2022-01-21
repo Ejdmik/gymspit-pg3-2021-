@@ -1,0 +1,10 @@
+779, initial value, ---
+-59, gas fee, household
+-99, chicken meat, food
+200, meal voucher, food
+-90, banana, food
+20, refund (gas), household
+-500, bathroom repairment, household
+-100, cinema, entertainment
+200, winning lottery ticket, entertainment
+-80, rollercoaster, entertainment
