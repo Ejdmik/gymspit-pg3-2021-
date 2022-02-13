@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jazykovy_slovnik", "jazykovy_slovnik.csproj", "{F691F7DC-C865-417D-AE98-EAD6B4271119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F691F7DC-C865-417D-AE98-EAD6B4271119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F691F7DC-C865-417D-AE98-EAD6B4271119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F691F7DC-C865-417D-AE98-EAD6B4271119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F691F7DC-C865-417D-AE98-EAD6B4271119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2AB2E0-BF26-4F91-BBB4-CCA561B81F15}
+	EndGlobalSection
+EndGlobal

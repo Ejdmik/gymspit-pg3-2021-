@@ -1,0 +1,11 @@
+jablko, r Apfel
+most, e Brücke
+ponožka, e Socke
+bota, r Schuh
+pomeranč, s Orange
+stůl, r Tisch
+pes, r Hund
+kočka, e Katze
+slon, r Elefant
+židle, r Stuhl
+vlak, r Zug
